@@ -14,7 +14,6 @@ def main():
     plotter.process_and_plot()
 
     print('Intensity map successfully plotted.')
-    print('Intensity map successfully saved as png.')
 
 
 if __name__ == '__main__':
